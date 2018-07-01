@@ -9,5 +9,4 @@ page_sections:
   block: hero-2
   image:
     image: "/uploads/2018/07/01/craig-whitehead-546355-unsplash.jpg"
-published: false
 ---
